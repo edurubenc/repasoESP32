@@ -1,2 +1,2 @@
-# repasoESP32
-XD
+#CONTRIBUIDOR
+Eduardo Cajas
